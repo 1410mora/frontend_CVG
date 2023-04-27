@@ -8,7 +8,7 @@ import { Proyectos } from '../model/proyectos';
 })
 export class SProyectosService {
   //proyURL = 'https://NOMBRE_DEPLOY.herokuapp.com/proy/';
-  proyURL = 'http://localhost:8080/proy/'
+  proyURL = 'https://backend-cecy.onrender.com/proy/';
 
   constructor(private httpClient: HttpClient) { }
 

@@ -3,7 +3,7 @@
 }
 
 div{
-    background-color: #b9b9b7;
+    background-color: #499ae6;
     text-align: center;
 }
 /*Estilo de la foto de Perfil*/
@@ -12,7 +12,7 @@ div{
         position: absolute;
         width:15%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px grey;
+        box-shadow: 3px 3px 3px rgb(87, 53, 207);
         left:3%;
         top: 600px;
     }

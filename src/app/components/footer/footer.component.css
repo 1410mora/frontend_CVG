@@ -1,11 +1,11 @@
 .row {
-    background-color: #1363b9;
+    background-color: #1d037a;
 }
 footer{
-    color:#fefefe;
+    color:#240579;
     font-size: 14px;
     display: flex ;
     flex-direction: column;
     text-align: center;
-    box-shadow: 2px -2px 5px #999 ;
+    box-shadow: 2px -2px 5px #380f85 ;
 } 

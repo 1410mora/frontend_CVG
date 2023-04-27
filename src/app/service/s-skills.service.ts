@@ -7,8 +7,8 @@ import { Skills } from '../model/skills';
   providedIn: 'root'
 })
 export class SSkillsService {
-  //skillURL = 'https://NOMBRE_DEPLOY.herokuapp.com/skill/'
-  skillURL = 'http://localhost:8080/skill/'
+  //skillURL = 'https://NOMBRE_DEPLOY.herokuapp.com/skill/';
+  skillURL = 'https://backend-cecy.onrender.com/skill/';
 
   constructor(private httpClient: HttpClient) { }
 
